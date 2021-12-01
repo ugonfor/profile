@@ -8,7 +8,7 @@
 - Research Intern in Korea University. AI Research Lab  (2021.01 ~ )
 
 #### ⚡ Interests
-- Information Security, Reverse Engineering, Malware Analysis, Network Security
+- Information Security, AI Security, Reverse Engineering, Network Security
 - Deep Learning, Natural Language Processing, Vision-Language Model
 
 
