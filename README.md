@@ -5,7 +5,9 @@
 - Korea Science Academy of KAIST     (2016.02 ~ 2019.02)
   
 #### 👯 Career
-- Research Intern in Korea University. AI Research Lab  (2021.01 ~ )
+- Intern at Naver, Search CIC (2022.1 ~ )
+- Research Intern at Korea University, AI Research Lab  (2021.01 ~ 2021.11)
+- Research Intern at Korea University, SANE Lab (2020.05 ~ 2020.08)
 
 #### ⚡ Interests
 - Deep Learning, Natural Language Processing, Vision-Language Model
